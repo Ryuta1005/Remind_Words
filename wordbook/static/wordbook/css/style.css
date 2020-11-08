@@ -1,0 +1,23 @@
+body{background-color: #fff;}
+header{background-color: #333;
+    height:70px;
+}
+.header_link{
+    color:#fff;
+    font-size:1.5em;}
+.table_top{background-color:rgba(94, 197, 197, 0.664);}
+a{color:#337;}
+.english_link{color:rgb(214, 139, 0)};
+#japanese_box {
+    border:1px dashed gray;   /* 枠線 */
+    border-radius:1em;        /* 角丸 */
+    background-color:#222629; /* 背景色 */
+    /* color:red; */
+}
+
+#details_japaese {
+    border:1px dashed gray;   /* 枠線 */
+    border-radius:0.1em;        /* 角丸 */
+    background-color:#222629; /* 背景色 */
+    /* color:red; */
+}
